@@ -6,18 +6,14 @@
 </h1>
 <!-- Intro End -->
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=salmannnsajid.salmannnsajid)
-
-<br>
-
 <!-- About Me Start  -->
 <h2> About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">️</h2>
 
-- 👩🏻‍💻 Currently working as a Front End / React Js Developer @[Argon Tech](https://www.linkedin.com/company/argontech/)
+- 👩🏻‍💻 Currently working as a MERN Stack | Next.js | Nest.js Developer @[Xeven Solutions](https://www.linkedin.com/company/xevensolutions/)
 - 🧐 Interested in Mern Stack Development.
 - 👯 Looking out for opportunities to collaborate with other Developers worldwide
-- 🌱 Learning aim : ReactJS, Typescript and NodeJs
-- 🎯 2023 Goal: Open Source projects Contribution
+- 🌱 Learning aim :  AWS cloud deployment, Docker, microservices architecture
+- 🎯 2026 Goal: Open Source projects Contribution
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/salman-sajid-77297b1ba/)
 <!-- About Me End  -->
 
